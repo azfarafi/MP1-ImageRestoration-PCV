@@ -1,1 +1,1 @@
-# MP1-ImageRestoration-PCV
+# mp1-image-restoration
